@@ -20,10 +20,10 @@ SERPAPI_API_KEY = os.getenv("SERPAPI_API_KEY")
 
 
 # Import the agent
-from wyn_agent_s.main import AgentX
+from wyn_agent_s.main import Agent_S
 
 # Initialize and start the chat!
-agent = AgentX(
+agent = Agent_S(
     openai_api_key=OPENAI_API_KEY,
     serpapi_key=SERPAPI_API_KEY
 )

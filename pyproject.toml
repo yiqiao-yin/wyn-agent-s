@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "wyn-agent-s"
-version = "0.1.1"
+version = "0.1.2"
 description = ""
 authors = ["eagle0504 <eagle0504@gmail.com>"]
 readme = "README.md"

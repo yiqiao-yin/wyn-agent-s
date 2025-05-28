@@ -14,7 +14,7 @@ metadata_filepath = os.path.join(os.path.dirname(__file__), "metadata.json")
 metadata = load_metadata(metadata_filepath)
 
 
-class AgentX:
+class Agent_S:
     def __init__(
         self,
         openai_api_key: str,
